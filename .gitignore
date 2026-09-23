@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+
+# Local macOS metadata
+.DS_Store?
+
+# Ignore downloaded/built release artifacts unless intentionally tracked
+Releases/
